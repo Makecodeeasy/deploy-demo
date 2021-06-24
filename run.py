@@ -20,5 +20,6 @@ def foo():
 def bar():
     pass
 
+
 def main():
     pass
