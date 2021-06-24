@@ -3,6 +3,8 @@
 import time
 
 
+# 运行一个函数
+
 def run():
     while True:
         with open('/tmp/a.txt', 'a+') as fd:
