@@ -27,6 +27,6 @@ def main():
 
 class Foo:
     def __init__(self):
-        pass
+        self.name = "foo"
 
 
