@@ -15,3 +15,7 @@ def run():
 
 def foo():
     pass
+
+
+def bar():
+    pass
