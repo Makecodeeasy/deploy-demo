@@ -3,7 +3,8 @@
 import time
 
 
-# 运行一个函数
+# 运行函数
+
 
 def run():
     while True:
