@@ -26,5 +26,7 @@ def main():
 
 
 class Foo:
-    pass
+    def __init__(self):
+        pass
+
 
