@@ -11,3 +11,7 @@ def run():
         with open('/tmp/a.txt', 'a+') as fd:
             fd.write('running....\n')
         time.sleep(3)
+
+
+def foo():
+    pass
