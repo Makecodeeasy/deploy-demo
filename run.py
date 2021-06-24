@@ -23,3 +23,8 @@ def bar():
 
 def main():
     pass
+
+
+class Foo:
+    pass
+
