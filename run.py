@@ -32,3 +32,8 @@ class Foo:
     def bar(self):
         pass
 
+    def foo(self):
+        pass
+
+
+
